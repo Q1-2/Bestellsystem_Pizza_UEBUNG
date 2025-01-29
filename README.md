@@ -1,1 +1,2 @@
-![grafik](https://github.com/user-attachments/assets/47971330-4673-4b6b-a55b-a463106973e9)
+
+![ClassDiagram](https://github.com/user-attachments/assets/3e97b4a7-c377-4d4c-b569-4d5335eac0db)
